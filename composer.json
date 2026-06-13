@@ -158,7 +158,8 @@
     },
     "config": {
         "platform": {
-            "php": "8.4"
+            "php": "8.4",
+            "ext-ldap": "8.4.0"
         },
         "preferred-install": "dist",
         "sort-packages": true,
